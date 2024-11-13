@@ -1,0 +1,2 @@
+'Maksim'
+cout <<'Maksim'
